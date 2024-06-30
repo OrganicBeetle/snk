@@ -29,9 +29,9 @@ jobs:
         uses: Platane/snk@v2.0.0
         with:
           github_user_name: OrganicBeetle
-          color_snake: "#E6E6FA"       # Lavender
-          color_dots_1: "#ADD8E6"      # Light Blue
-          color_dots_2: "#FFE4E1"      # Misty Rose
+          color_snake: "#008080"       # Teal
+          color_dots_1: "#FF7F50"      # Coral
+          color_dots_2: "#FFD700"      # Gold
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
