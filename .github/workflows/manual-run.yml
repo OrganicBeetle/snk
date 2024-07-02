@@ -58,9 +58,9 @@ jobs:
         with:
           github_user_name: OrganicBeetle
           palette: github-dark
-          color_snake: "#008080"       # Teal
-          color_dots_1: "#FF7F50"      # Coral
-          color_dots_2: "#FFD700"      # Gold
+          color_snake: "#800080"       # Teal
+          color_dots_1: "#00FF00"      # Coral
+          color_dots_2: "#FF00FF"      # Gold
           gif_out_path: dist/github-contribution-grid-snake-dark.gif
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
 
